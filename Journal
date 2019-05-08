@@ -1,0 +1,62 @@
+Sapana Poudel
+Individual Progress Report 1
+CSC 480-Senior Design Project
+
+1.	Briefly describe your project. (About 2 sentences.)
+The name of our project is Restaurant Food Delivery and Pickup Software System (RFPDS). It is an online food ordering system for individual restaurant or especially food truck, which allows customers to get their food delivered to their door or takeout from a specific restaurant. Through this web application, customers can view the menu and pricing information. Also, they can select menu, change menu, add into cart and checkout securely. Customers an sign-up and login the application and get it delivered up to 10-mile radius from the restaurant. Customers also has an option to pay at the store. With the technology evolving in every sector, online food ordering system has become popular in the present restaurant industry to compete within the market and to serve customers in a better way. And we believe this design will serve the purpose.
+
+2.	What is your role in the project?
+My role in this project is system design, building, and testing. 
+
+3.	What have you done personally in the two weeks leading up to Feb. 24?
+I spent about 2 weeks on requirement determination and gatherings process. I used interviews, questionnaires, and observations techniques to gather the requirements of fully functional web application. So far, I built two web pages; signup and login pages using Microsoft Visual Studio. Now I am working on CSS files to design those web pages.
+4.	Describe any significant progress made by the team as a whole in this time period.
+We completed requirements gathering process and established functional and non-functional requirements of our web application. We also designed an architecture of this software system. We are using three-tier client –server architecture; however, the client has an option to go up or down (NOTE- Minimum of two-tier). We have also created use case diagram for whole system and also for each page. So far, we have created master page, index page, sign up page, and login page. We have also created database part of sign up and login. 
+
+5. Give a link to the journal file in your repository
+
+
+Sapana Poudel 
+Individual Progress Report 2
+CSC 480-Senior Design Project
+03/25/2019
+
+1. What have you done personally since your last progress report?
+Since my last report, I have built a Home page, Sign up page, and Login Page. I have created CSS files for all the page I have created and finished the design. I have created JavaScript files to validate the forms and check the accuracy of the information that user input and connect them with .aspx files. I have also created C# files for the pages above for server-side development and successfully connected the front side HTML content with the database side. So far, user and admin can successfully sign up and log in to the website.  I also worked on a part of master page content to create consistency throughout the web pages. 
+
+2. Describe any significant progress made by the team as a whole in this time period.
+As a team, we have created all the web pages, along with their respective CSS files. We have also created the JavaScript to validate the form and finished server-side development with C#. We have also created all the required databases and successfully connect them with web pages.
+
+
+Restaurant Food Delivery and Pickup System
+Individual Progress Report 3
+SUBMITTED TO: DR. HAROLD NELSON
+SUBMITTED BY: SAPANA POUDEL
+CSC 480 | 04/07/2019
+
+1. What have you done personally since your last progress report?
+Since last report, I have worked on menu page, add to cart page, and payment page, their CSS files, JavaScript files and C# files for server side.
+Now, user can add or remove items from the cart. Then user is proceed to check out and see total bill, the page will ask user to log in. Once user is logged in, it
+will provide option to pay online or at the store. In order to keep consistancy through out the web pages, master page is created, which displays similar layout in all web pages.
+
+
+2. Describe any significant progress made by the team as a whole in this time period.
+As a team, we have completed all database part. Now web application is sucessfully connected to database and stored all the data that user has input. User can also retreive their information such as biling address, phone number, and previous order history.
+
+
+Restaurant Food Delivery and Pickup System
+Individual Progress Report 4
+SUBMITTED TO: DR. HAROLD NELSON
+SUBMITTED BY: SAPANA POUDEL
+CSC 480 | 04/19/2019
+
+1. What have you done personally since your last progress report?
+Since my last report, I have created database and sucessfully connected signup page with the database. I also sucessfully logged in to the page as a user.
+I have created admin pannel and sucessfully logged in as an administrator. As an administrator, i am able to perform following functions: change menu, 
+change price information, add menu, view order, and view users information. 
+
+2. Describe any significant progress made by the team as a whole in this time period.
+As a team we finsihed our database part which was created using SQL Server Visual Studio 2017. We have sucessfully connected user interface with database and back end server. 
+Signup and login functionalities are done for both users and administrator. All the web pages are created and web application is ruuning sucessfully in local server. 
+
+As employee login as administrator, system displays order, payment report and customer's information such as delivery address. It also allows admin to change menu and price information. 

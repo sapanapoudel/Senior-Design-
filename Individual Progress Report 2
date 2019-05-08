@@ -1,0 +1,10 @@
+Sapana Poudel 
+Individual Progress Report 
+CSC 480-Senior Design Project
+03/25/2019
+
+1. What have you done personally since your last progress report?
+Since my last report, I have built a Home page, Sign up page, and Login Page. I have created CSS files for all the page I have created and finished the design. I have created JavaScript files to validate the forms and check the accuracy of the information that user input and connect them with .aspx files. I have also created C# files for the pages above for server-side development and successfully connected the front side HTML content with the database side. So far, user and admin can successfully sign up and log in to the website.  I also worked on a part of master page content to create consistency throughout the web pages. 
+
+2. Describe any significant progress made by the team as a whole in this time period.
+As a team, we have created all the web pages, along with their respective CSS files. We have also created the JavaScript to validate the form and finished server-side development with C#. We have also created all the required databases and successfully connect them with web pages. 

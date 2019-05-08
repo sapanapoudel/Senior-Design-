@@ -1,0 +1,88 @@
+﻿Restaurant Food Delivery and Pickup System
+Mid Term Report
+SUBMITTED TO: DR. HAROLD NELSON
+SUBMITTED BY: SAPANA POUDEL, GANDEEV NIRAULA, ABDULLAH GHURAB
+CSC 480 | 02/27/2018
+
+
+1. Introduction: 
+Restaurant Food Delivery and Pickup System (RFDPS) is an online food ordering for a small restaurant/food trucks, which is based on an idea 
+through which user can order their food using this website. A customer can view the menu, search for the list of menu, view pricing information, and select the menu. Also, customers have an option to pay online or at the restaurant. A customer can sign-up and log in the app and get the benefit of the reward system. It allows a customer to get it delivered up to 10-mile radius from the restaurant. Online ordering is a game changer for a restaurant, which can attract many customers by providing convenient and faster service. With the technology evolving in every sector, online food ordering system has become popular in the modern restaurant industry to compete within the market and to serve customers in a better way. And we believe this design will serve the purpose. 
+
+2. Individual Role
+   Gandeev Niraula- System Architecture, Web Page Design and Development
+   Sapana Poudel- Requirements Gathering, Web Page Design and Development
+   Abdullah Ghurab- Database Design
+  
+3. Purpose:
+   Small food service startups like a takeout restaurant and food trucks operate on a low budget and receive a high volume of order during the peak 
+   hours which could be either breakfast, lunch or dinner depending on their business hours and kind of food they serve. Therefore, keeping these 
+   small businesses in mind; our project is a .NET based monolithic web application which allows their potential customers to place an order online, 
+   make a payment through their card and receive an estimated time for their order to be ready. This application will aid small food serving businesses.
+   like takeout and delivery restaurant and food trucks to increase their sales by receiving order in real time and saves the hassle for customers by 
+   facilitating order placement without making a phone call and saves time by obliterating the need to visit the brick and mortar site itself to place 
+   an order.
+
+4.Requirements Determination:
+i.	Functional Requirements 
+•	The system must display the menu for the customers. 
+•	The system must provide price information in the menu. 
+•	The system must allow customer to sign up or login the app. 
+•	The system must allow customer to add or remove items from the cart. 
+•	The system must allow proceed to check out and see total bill. 
+•	The system must provide option of pay online or at the store. 
+•	The system must provide option of pickup or delivery for a user’s order. 
+•	The system must display order to the employee. 
+•	The system must manage payment system 
+•	The system must show the map of the store location. 
+•	Using RDPS, the customer must be able to call the store. 
+ 
+ii.	Non-Functional Requirements 
+•	The system can run on handheld devices 
+•	The system should be able to run on any Web browser. 
+•	The system should be available for use 24 hours a day. 
+•	The system should include all available safeguards from viruses, worms, Trojan Horses, etc. 
+
+5.Architecture:
+Two tier Architecture which is Client server architecture will be used for this project. Client System handles both Presentation and Application 
+layers while server system handles Database Layer. The communication takes place between the client and the server. Client system send requests to 
+the server and server system processes the request and sends back the data to the client system.
+
+6. Implementation and System Evaluation:
+   Hardware/Software Interface: This section lists the minimum hardware and software requirements needed to run the system efficiently. 
+   Host: Windows Server. (Minimum 2GB RAM)
+   Client: Any machine that can access a web page.
+   Development: Windows Machine with IIS server installed. (Minimum 1GB RAM).
+   Currently, this system only fulfills few functional and non-functional requirements such as sign-up and login 
+   option and displaying menu and price information. 
+
+7. General Plan:
+   Currently, we are redesigning our previous home page and considering to add few more features like search option and image slider to make it look more 
+   pleasant to the viewer. We spent our time leading upto second week of February by redetermining our Requirements gathering and System 
+   Implementation. Below are the list of functionalities along with the name of the person designated with that task in order to complete the project.
+•	System allows to add/remove items to and from the cart.- Gandeev Niraula
+•	Recover password and css for menu- Sapana Poudel
+•	System allows to proceed to check out and see the final bill and estimated time for order to be ready.- Sapana Poudel
+•	System provides option of pay online or at the store.- Sapana Poudel
+•	System provides option of pickup or delivery for a customer’s order.- Sapana Poudel
+•	System displays order to employee.- Gandeev Niraula
+•	Contact Us Form-Gandeev Niraula 
+•	Order Summary page- Gandeev Niraula
+•	Order History page- Gandeev Niraula
+•	Create Product Table- Abdullah Ghurab
+•	Insert Product to the table- Abdullah Ghurab
+•	Create Add to Cart Table- Abdullah Ghurab
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+

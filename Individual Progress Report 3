@@ -1,0 +1,15 @@
+Restaurant Food Delivery and Pickup System
+Individual Progress Report 3
+SUBMITTED TO: DR. HAROLD NELSON
+SUBMITTED BY: SAPANA POUDEL
+CSC 480 | 04/07/2019
+
+1. What have you done personally since your last progress report?
+Since last report, I have worked on menu page, add to cart page, and payment page, their CSS files, JavaScript files and C# files for server side.
+Now, user can add or remove items from the cart. Then user is proceed to check out and see total bill, the page will ask user to log in. Once user is logged in, it
+will provide option to pay online or at the store. In order to keep consistancy through out the web pages, master page is created, which displays similar layout in all web pages.
+
+
+2. Describe any significant progress made by the team as a whole in this time period.
+As a team, we have completed all database part. Now web application is sucessfully connected to database and stored all the data that user has input. User can also retreive their information such as biling address, phone number, and previous order history.
+As employee login as administrator, system displays order, payment report and customer's information such as delivery address. It also allows admin to change menu and price information. 

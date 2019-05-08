@@ -1,0 +1,16 @@
+Sapana Poudel
+Individual Progress Report
+CSC 480-Senior Design Project
+
+1.	Briefly describe your project. (About 2 sentences.)
+The name of our project is Restaurant Food Delivery and Pickup Software System (RFPDS). It is an online food ordering system for individual restaurant or especially food truck, which allows customers to get their food delivered to their door or takeout from a specific restaurant. Through this web application, customers can view the menu and pricing information. Also, they can select menu, change menu, add into cart and checkout securely. Customers an sign-up and login the application and get it delivered up to 10-mile radius from the restaurant. Customers also has an option to pay at the store. With the technology evolving in every sector, online food ordering system has become popular in the present restaurant industry to compete within the market and to serve customers in a better way. And we believe this design will serve the purpose.
+
+2.	What is your role in the project?
+My role in this project is system design, building, and testing. 
+
+3.	What have you done personally in the two weeks leading up to Feb. 24?
+I spent about 2 weeks on requirement determination and gatherings process. I used interviews, questionnaires, and observations techniques to gather the requirements of fully functional web application. So far, I built two web pages; signup and login pages using Microsoft Visual Studio. Now I am working on CSS files to design those web pages.
+4.	Describe any significant progress made by the team as a whole in this time period.
+We completed requirements gathering process and established functional and non-functional requirements of our web application. We also designed an architecture of this software system. We are using three-tier client –server architecture; however, the client has an option to go up or down (NOTE- Minimum of two-tier). We have also created use case diagram for whole system and also for each page. So far, we have created master page, index page, sign up page, and login page. We have also created database part of sign up and login. 
+
+5. Give a link to the journal file in your repository
